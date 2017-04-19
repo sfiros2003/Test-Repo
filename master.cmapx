@@ -1,0 +1,15 @@
+<map id="master_map" name="master_map">
+<area shape="rect" id="id1" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/02-Getting%20Started/ProjectGettingStarted%20Activity.png" title="Getting Started Activity" alt="" coords="272,136,353,151"/>
+<area shape="rect" id="id2" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/01-Sales/SalesActivity.png" title="Sales Activity" alt="" coords="265,81,346,96"/>
+<area shape="rect" id="id3" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.7-Shipping/ShippingActivity.png" title="Shipping Activity" alt="" coords="332,765,422,780"/>
+<area shape="rect" id="id4" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.2-Range%20Selection/RangeSelectionActivity.png " title="Range Selection" alt="" coords="163,415,254,430"/>
+<area shape="rect" id="id5" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/03-New%20Project/NewProject.png" title="New project Activity" alt="" coords="241,191,334,206"/>
+<area shape="rect" id="id6" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/05-Post%20Submission/PostSubmissionActivity.png" title="Post Submission" alt="" coords="197,840,292,855"/>
+<area shape="rect" id="id7" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.1-Mapping/MappingActivity.png" title="mapping" alt="" coords="87,345,183,360"/>
+<area shape="rect" id="id8" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.6-Post%20Audit/PostAuditActivity.png" title="Post Audit" alt="" coords="44,695,148,710"/>
+<area shape="rect" id="id9" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.4-Annotation/AnnotationActivity.png" title="Annotation" alt="" coords="30,555,137,570"/>
+<area shape="rect" id="id10" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.5-Project%20Review/ProjectReviewActivity.png" title="Project Review" alt="" coords="281,625,411,640"/>
+<area shape="rect" id="id11" href="https://github.com/DealerUplift-Org/CompanyCollaboration/tree/master/engineering/activity-flow/06-Accounting%20Billing/AccountingBillingProcessActivity.png" title="Accounting Billing Process" alt="" coords="167,895,313,910"/>
+<area shape="rect" id="id12" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.3-PreAudit%20Report%20Generation/PreparePreAuditReportActivity.png" title="PreAudit Report Generation" alt="" coords="49,485,203,500"/>
+<area shape="rect" id="id13" href="https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/05.0-Production/ProductionActivity.png" title="Production Activity" alt="" coords="199,274,354,290"/>
+</map>

@@ -1,0 +1,23 @@
+@startuml
+    title AramatusDU Workflow master diagram
+    start
+
+        :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/01-Sales/SalesActivity.png{Sales Activity} Sales Process]]: It deals with all operations from marketing to contract signing, ; 
+        :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/02-Getting%20Started/ProjectGettingStarted%20Activity.png{Getting Started Activity} Getting Started]] : This process explanes steps needed to Start a new project;
+        :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/03-New%20Project/NewProject.png{New project Activity} New Project Alert]] : This face deals with all the setups needed to  manage a new project;
+     
+        partition Production_System
+          
+            #LightPink:[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/05.0-Production/ProductionActivity.png{Production Activity} Production System Overview]] : It shows the overall working and steps involved in the production system;
+            :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.1-Mapping/MappingActivity.png{mapping} Mapping Process]] : It preliminarily determine which parts will be included in or excluded from the specified store’s warranty mark-up process;
+            :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.2-Range%20Selection/RangeSelectionActivity.png {Range Selection} Range Selection]] : To select 100 qualifying sequential customer-paid ROs that were opened within the last 180 days;
+            :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.3-PreAudit%20Report%20Generation/PreparePreAuditReportActivity.png{PreAudit Report Generation} Pre-Audit Report Generation]] : To make any necessary edits to the Pre-Audit Reports and let the group/salespersons know where the project stands financially;
+            :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.4-Annotation/AnnotationActivity.png{Annotation} Annotation Process]] : Examines each of the ROs in the selected range to determine which parts and/or labor operations are to be allowed or excluded under warranty;
+            :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.5-Project%20Review/ProjectReviewActivity.png{Project Review}Project Review Process]] : It reviews the ROs and generates review notes;
+            :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.6-Post%20Audit/PostAuditActivity.png{Post Audit}Post Audit Process]] : It determines the post-audit parts mark-up/labor rate to inform the financial information to the clients through "Submitted Expectation" email;
+            :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/04.7-Shipping/ShippingActivity.png{Shipping Activity} Project Shipping]] : Here ships the project to the factory;
+        }
+        :[[https://github.com/DealerUplift-Org/CompanyCollaboration/blob/master/engineering/activity-flow/05-Post%20Submission/PostSubmissionActivity.png{Post Submission} Post Submission]] : Here analyses the manufacturer response and moves to project billing or appealing;
+        :[[https://github.com/DealerUplift-Org/CompanyCollaboration/tree/master/engineering/activity-flow/06-Accounting%20Billing/AccountingBillingProcessActivity.png{Accounting Billing Process} Accounting Billing Process]] : Here manages all the acounts management and Submission/Uplift billing operations;
+    end
+@enduml
