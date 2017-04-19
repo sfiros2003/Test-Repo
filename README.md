@@ -28,6 +28,6 @@ Also the directory contains following files
 - generate_plantuml_svg_image.bat - Windows batch file to create svg image, after changing plant uml scripts.
 - README.md
 
-<a href="https://rawgit.com/sfiros2003/Test-Repo/master.png">
-  <img src="https://rawgit.com/sfiros2003/Test-Repo/master.png" width="100%" height="100%">
+<a href="https://https://rawgit.com/sfiros2003/Test-Repo/master/master.png">
+  <img src="https://rawgit.com/sfiros2003/Test-Repo/master/master.png" width="100%" height="100%">
 </a>
