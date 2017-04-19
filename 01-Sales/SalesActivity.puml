@@ -1,0 +1,47 @@
+@startuml
+title Sales Process
+start
+fork
+:Collect inbound lead Info(phone calls/emails);
+fork again
+:Make sales outbound calls/emails;
+end fork
+
+->Input:{contact:["Phone calls","Emails"]},
+Output: {connects:"Sales leads"},
+Input Form: None,
+Output Form: None;
+
+:Send email with sales materials to clients;
+
+->Input: {contact: "Sales leads"},
+Output: {email: "Email with Sales materials"},
+Input Form: None,
+Output Form: Sales materials;
+:Provide sales presentations (SP) to Lead Contacts (LC);
+
+->Input:  {connect: "Sales leads"},
+Output: {presentation: "Sales Presentation"},
+Input Form: None,
+Output Form: None;
+:Prepare/review Projections and communicate with the Client;
+
+->Input: Unknown,
+Output: {contact: "Communication with client"},
+Input Form: Unknown,
+Output Form: None;
+:Obtain Client verbal contract approvals;
+
+->Input: {contact: "Communication with client"},
+Output: {"Email/Phone call"},
+Input Form: None,
+Output Form: None;
+:Get contracts signed from client;
+
+->Input: {contact: ["Phone calls","Email"]},
+Output: {contract: "Signed contract"},
+Input Form: Contract,
+Output Form: Signed contract;
+
+end
+@enduml

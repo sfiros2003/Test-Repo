@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="864px" preserveAspectRatio="none" style="width:550px;height:864px;" version="1.1" viewBox="0 0 550 864" width="550px" zoomAndPan="magnify"><defs><filter height="300%" id="fm91vv1" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="115" x="218.5" y="28.6855">Sales Process</text><ellipse cx="276.5" cy="42.6406" fill="#000000" filter="url(#fm91vv1)" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#000000" filter="url(#fm91vv1)" height="6" rx="2.5" ry="2.5" style="stroke: #000000; stroke-width: 1.0;" width="533" x="10" y="72.6406"/><rect fill="#FEFECE" filter="url(#fm91vv1)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="269" x="24" y="98.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="249" x="34" y="121.0977">Collect inbound lead Info(phone calls/emails)</text><rect fill="#FEFECE" filter="url(#fm91vv1)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="208" x="321" y="98.6406"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="188" x="331" y="121.0977">Make sales outbound calls/emails</text><rect fill="#000000" filter="url(#fm91vv1)" height="6" rx="2.5" ry="2.5" style="stroke: #000000; stroke-width: 1.0;" width="533" x="10" y="153.7344"/><rect fill="#FEFECE" filter="url(#fm91vv1)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="249" x="152" y="243.4951"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="229" x="162" y="265.9521">Send email with sales materials to clients</text><rect fill="#FEFECE" filter="url(#fm91vv1)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="324" x="114.5" y="362.3496"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="304" x="124.5" y="384.8066">Provide sales presentations (SP) to Lead Contacts (LC)</text><rect fill="#FEFECE" filter="url(#fm91vv1)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="349" x="102" y="481.2041"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="329" x="112" y="503.6611">Prepare/review Projections and communicate with the Client</text><rect fill="#FEFECE" filter="url(#fm91vv1)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="230" x="161.5" y="600.0586"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="210" x="171.5" y="622.5156">Obtain Client verbal contract approvals</text><rect fill="#FEFECE" filter="url(#fm91vv1)" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="193" x="180" y="718.9131"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="173" x="190" y="741.3701">Get contracts signed from client</text><ellipse cx="276.5" cy="847.7676" fill="#FFFFFF" filter="url(#fm91vv1)" rx="10" ry="10" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 2.5;" x1="270.3128" x2="282.6872" y1="841.5804" y2="853.9548"/><line style="stroke: #000000; stroke-width: 2.5;" x1="282.6872" x2="270.3128" y1="841.5804" y2="853.9548"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="158.5" x2="158.5" y1="78.6406" y2="98.6406"/><polygon fill="#A80036" points="154.5,88.6406,158.5,98.6406,162.5,88.6406,158.5,92.6406" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="425" x2="425" y1="78.6406" y2="98.6406"/><polygon fill="#A80036" points="421,88.6406,425,98.6406,429,88.6406,425,92.6406" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="158.5" x2="158.5" y1="133.7344" y2="153.7344"/><polygon fill="#A80036" points="154.5,143.7344,158.5,153.7344,162.5,143.7344,158.5,147.7344" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="425" x2="425" y1="133.7344" y2="153.7344"/><polygon fill="#A80036" points="421,143.7344,425,153.7344,429,143.7344,425,147.7344" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="276.5" x2="276.5" y1="52.6406" y2="72.6406"/><polygon fill="#A80036" points="272.5,62.6406,276.5,72.6406,280.5,62.6406,276.5,66.6406" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="276.5" x2="276.5" y1="159.7344" y2="243.4951"/><polygon fill="#A80036" points="272.5,233.4951,276.5,243.4951,280.5,233.4951,276.5,237.4951" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="186" x="280.5" y="182.0703">Input:{contact:["Phone calls","Emails"]},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="161" x="280.5" y="195.9063">Output: {connects:"Sales leads"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="280.5" y="209.7422">Input Form: None,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="90" x="280.5" y="223.5781">Output Form: None</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="276.5" x2="276.5" y1="278.5889" y2="362.3496"/><polygon fill="#A80036" points="272.5,352.3496,276.5,362.3496,280.5,352.3496,276.5,356.3496" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="146" x="280.5" y="300.9248">Input: {contact: "Sales leads"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="211" x="280.5" y="314.7607">Output: {email: "Email with Sales materials"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="280.5" y="328.5967">Input Form: None,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="138" x="280.5" y="342.4326">Output Form: Sales materials</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="276.5" x2="276.5" y1="397.4434" y2="481.2041"/><polygon fill="#A80036" points="272.5,471.2041,276.5,481.2041,280.5,471.2041,276.5,475.2041" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="152" x="280.5" y="419.7793">Input:  {connect: "Sales leads"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="213" x="280.5" y="433.6152">Output: {presentation: "Sales Presentation"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="280.5" y="447.4512">Input Form: None,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="90" x="280.5" y="461.2871">Output Form: None</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="276.5" x2="276.5" y1="516.2979" y2="600.0586"/><polygon fill="#A80036" points="272.5,590.0586,276.5,600.0586,280.5,590.0586,276.5,594.0586" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="78" x="280.5" y="538.6338">Input: Unknown,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="223" x="280.5" y="552.4697">Output: {contact: "Communication with client"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="105" x="280.5" y="566.3057">Input Form: Unknown,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="90" x="280.5" y="580.1416">Output Form: None</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="276.5" x2="276.5" y1="635.1523" y2="718.9131"/><polygon fill="#A80036" points="272.5,708.9131,276.5,718.9131,280.5,708.9131,276.5,712.9131" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="214" x="280.5" y="657.4883">Input: {contact: "Communication with client"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="133" x="280.5" y="671.3242">Output: {"Email/Phone call"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="84" x="280.5" y="685.1602">Input Form: None,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="90" x="280.5" y="698.9961">Output Form: None</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="276.5" x2="276.5" y1="754.0068" y2="837.7676"/><polygon fill="#A80036" points="272.5,827.7676,276.5,837.7676,280.5,827.7676,276.5,831.7676" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="186" x="280.5" y="776.3428">Input: {contact: ["Phone calls","Email"]},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="179" x="280.5" y="790.1787">Output: {contract: "Signed contract"},</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="100" x="280.5" y="804.0146">Input Form: Contract,</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="141" x="280.5" y="817.8506">Output Form: Signed contract</text><!--
+@startuml
+title Sales Process
+start
+fork
+:Collect inbound lead Info(phone calls/emails);
+fork again
+:Make sales outbound calls/emails;
+end fork
+
+->Input:{contact:["Phone calls","Emails"]},
+Output: {connects:"Sales leads"},
+Input Form: None,
+Output Form: None;
+
+:Send email with sales materials to clients;
+
+->Input: {contact: "Sales leads"},
+Output: {email: "Email with Sales materials"},
+Input Form: None,
+Output Form: Sales materials;
+:Provide sales presentations (SP) to Lead Contacts (LC);
+
+->Input:  {connect: "Sales leads"},
+Output: {presentation: "Sales Presentation"},
+Input Form: None,
+Output Form: None;
+:Prepare/review Projections and communicate with the Client;
+
+->Input: Unknown,
+Output: {contact: "Communication with client"},
+Input Form: Unknown,
+Output Form: None;
+:Obtain Client verbal contract approvals;
+
+->Input: {contact: "Communication with client"},
+Output: {"Email/Phone call"},
+Input Form: None,
+Output Form: None;
+:Get contracts signed from client;
+
+->Input: {contact: ["Phone calls","Email"]},
+Output: {contract: "Signed contract"},
+Input Form: Contract,
+Output Form: Signed contract;
+
+end
+@enduml
+
+PlantUML version 2017.10(Fri Apr 07 00:13:00 IST 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_101-b13
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
