@@ -31,3 +31,4 @@ Also the directory contains following files
 <a href="https://rawgit.com/sfiros2003/Test-Repo/master/master.png">
   <img src="https://rawgit.com/sfiros2003/Test-Repo/master/master.png" width="100%" height="100%">
 </a>
+Edit
